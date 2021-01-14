@@ -102,6 +102,10 @@ ul {
   margin: 0;
 }
 
+ul.features li {
+  font-size: 17px;
+}
+
 img {
   max-width: 100%;
 }
