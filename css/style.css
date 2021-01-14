@@ -1,5 +1,5 @@
 /*=== Media Query ===*/
-/* /////////////////////////// 
+/* ///////////////////////////
     Header Area
 //////////////////////////// */
 @media (min-width: 768px) {
@@ -162,7 +162,7 @@
 }
 
 .header-btns .btn-2 {
-  width: 137px;
+  width: 180px;
   height: 40px;
   border-radius: 3px;
   background-color: #1290a4;
@@ -320,7 +320,7 @@
   text-transform: initial;
 }
 
-/* /////////////////////////// 
+/* ///////////////////////////
     Hero Area
 //////////////////////////// */
 .shapes img {
@@ -533,7 +533,7 @@
   }
 }
 
-/* /////////////////////////// 
+/* ///////////////////////////
     Feature Section
 //////////////////////////// */
 .feature-section {
@@ -1028,7 +1028,7 @@
 }
 
 /* ///////////////////////////
-    Pricing Section 
+    Pricing Section
 //////////////////////////// */
 .pricing-section {
   padding-top: 45px;
@@ -1446,7 +1446,7 @@
   display: inline-block;
 }
 
-/* /////////////////////////// 
+/* ///////////////////////////
     Footer Section - 06
 //////////////////////////// */
 .footer-section {
